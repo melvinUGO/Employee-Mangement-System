@@ -10,7 +10,7 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-@CrossOrigin(origins = "http://127.0.0.1:5173")
+@CrossOrigin(origins = "https://employee-management-sys.netlify.app")
 @RestController
 @RequestMapping("/api/v1/")
 public class EmployeeController {
